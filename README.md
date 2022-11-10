@@ -1,0 +1,4 @@
+# Predicting-patient-stay-length
+Predicting length of Stay of patients in hospitals as a part of Kaggle competition using Ensemble models like Random Forest and XGBoost 
+
+The world has succumbed to the strain COVID-19 pandemic has had on healthcare, such has shortage of beds and hospital resources. Incorporating latest data mining technologies into the healthcare system will exponentially mitigate these concerns. This paper presents the key methodologies used to predict the Length of Stay (LOS) of each patient, on a case-by-case basis that supports multiple applications in the medical field. The comparison of different models and analysis of the accuracy and precision obtained using each of these models concluded K-Nearest Neighbors as the most optimal model for the dataset used. The dataset introduction, key predicting models and challenges faced in implementation are introduced in detail.
